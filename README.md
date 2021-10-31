@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=NoualAli&show_icons=true"/>
+
 - 👋 Hi, I’m @NoualAli
 - 💞️ I’m looking to collaborate on php (laravel) projects
 - 📫 How to reach me :
@@ -5,6 +7,8 @@
   2. [Instagram](https://www.instagram.com/_ro__yal/)
   3. [Facebook](https://web.facebook.com/ali.nl.3781)
   4. [Twitter](https://twitter.com/noual_ali)
+
+## :man: About me
 
 ``` javascript
 const developper = {
