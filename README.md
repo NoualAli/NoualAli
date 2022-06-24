@@ -9,7 +9,7 @@ const developper = {
     technologies: {
         frameworks: {
            backend: { 
-               php: ["Laravel"],
+               php: ["Laravel", "Wordpress"],
              },
             frontend: {
                javaScript: ["VueJs", "ReactJs", "ReactNative"],
