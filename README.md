@@ -5,15 +5,20 @@
 const developper = {
     Firstname: 'Ali',
     Name: 'Noual',
-    code: ["Javascript", "PHP","HTML", "CSS","MySQL"],
+    code: ["PHP", "SQL", "Javascript", "HTML", "CSS"],
     technologies: {
-        backEnd: {
-            php: ["Laravel"],
+        frameworks: {
+           backend: { 
+               php: ["Laravel"],
+             },
+            frontend: {
+               javaScript: ["VueJs", "ReactJs", "ReactNative"],
+               CSS: ["Bulma", "Bootstrap", "Sass"]
+            }
         },
         databases: ["MySql", "SqlServer", "sqlite"],
     },
-    OSLoved: 'Ubuntu Bionic 18.04',
-    currentFocus: "JavaScript"
+    OSLoved: "Ubuntu Bionic 18.04"
 };
 ```
 # 💻 Languages
