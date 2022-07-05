@@ -7,8 +7,9 @@ const developper = {
     Name: 'Noual',
     technologies: {
         languages: ["PHP", "SQL", "Javascript", "HTML5", "CSS3"],
+        cms: ['Wordpress'],
         frameworks: {
-            php: ["Laravel", "Wordpress"],
+            php: ["Laravel"],
             javaScript: ["VueJs", "ReactJs", "ReactNative"],
             CSS: ["Bulma", "Bootstrap", "Sass"]
         },
