@@ -5,16 +5,12 @@
 const developper = {
     Firstname: 'Ali',
     Name: 'Noual',
-    code: ["PHP", "SQL", "Javascript", "HTML", "CSS"],
     technologies: {
+        languages: ["PHP", "SQL", "Javascript", "HTML5", "CSS3"],
         frameworks: {
-           backend: { 
-               php: ["Laravel", "Wordpress"],
-             },
-            frontend: {
-               javaScript: ["VueJs", "ReactJs", "ReactNative"],
-               CSS: ["Bulma", "Bootstrap", "Sass"]
-            }
+            php: ["Laravel", "Wordpress"],
+            javaScript: ["VueJs", "ReactJs", "ReactNative"],
+            CSS: ["Bulma", "Bootstrap", "Sass"]
         },
         databases: ["MySql", "SqlServer", "sqlite"],
     },
