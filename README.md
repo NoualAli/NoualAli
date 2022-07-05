@@ -3,8 +3,8 @@
 # 👨‍💻 About me
 ``` javascript
 const developper = {
-    Firstname: 'Ali',
-    Name: 'Noual',
+    firstname: 'Ali',
+    name: 'Noual',
     technologies: {
         languages: ["PHP", "SQL", "Javascript", "HTML5", "CSS3"],
         cms: ['Wordpress'],
@@ -15,7 +15,6 @@ const developper = {
         },
         databases: ["MySql", "SqlServer", "sqlite"],
     },
-    OSLoved: "Ubuntu Bionic 18.04"
 };
 ```
 # 💻 Languages
