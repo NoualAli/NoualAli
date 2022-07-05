@@ -17,13 +17,11 @@ const developper = {
     },
 };
 ```
-# 💻 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoualAli&theme=blue-green"/>
 
 # 📧 Contact
 
   1. noualdev@gmail.com
-  2. [Instagram](https://www.instagram.com/_ro__yal/)
+  2. [Instagram](https://www.instagram.com/ali_noual/)
   3. [Facebook](https://web.facebook.com/ali.nl.3781)
   4. [Twitter](https://twitter.com/noual_ali)
   5. [LinkedIn](https://linkedin.com/in/ali-noual)
