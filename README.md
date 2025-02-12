@@ -3,13 +3,12 @@
 # 👨‍💻 About me
 ``` javascript
 const developper = {
-    firstname: 'Ali',
-    name: 'Noual',
+    fullname: 'NOUAL Ali',
     technologies: {
         languages: ["PHP", "SQL", "Javascript", "HTML5", "CSS3"],
         frameworks: {
-            php: ["Laravel"],
-            javaScript: ["VueJs"],
+            php: ["Laravel", "Symfony"],
+            javaScript: ["VueJs", "NuxtJs"],
             CSS: ["Bulma", "Bootstrap", "Sass"]
         },
         databases: ["MySql", "SqlServer", "sqlite"],
